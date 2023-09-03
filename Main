@@ -12,7 +12,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/goathu
 end)
 Section:NewButton("faded da hood", "currently goat da hood script", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+end)
+
 
 Tab:NewSection("OWNER = THEGOATPRO")
 local Section = Tab:NewSection(" CO OWNER = ALLFILM")
-local Section = Tab:NewSection("OWNER OF HUB = THEGOATPRO"
+local Section = Tab:NewSection("OWNER OF HUB = THEGOATPRO")
